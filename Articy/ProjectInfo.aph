@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>8B92295C12CC5081B440A9A1B41F0F79049C5A819EF95E9413C787F028ECEE3C</Signature>
+  <Content>
+    <Project Guid="0f5bf324-595b-4001-a35c-b95f82cd2e94">
+      <DisplayName Value="Faldun"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="bd5f0e88-8c6d-4750-95ee-031bebdf3ad1"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="635074647981276296"/>
+      <PartitionHash Value="21F2B678CFA83DAB18F88EBBD91059C399AE8D55B71D366D2E14435BD7EAE560"/>
+      <SaveFileVersion Value="45"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
